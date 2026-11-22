@@ -1,0 +1,21 @@
+# I love writing code
+# I love terraform
+git init - when the repo is completely new
+git add main.txt
+git add .
+git commit -m "anymessage"
+git remote add https://github.com/sadaf-jamal-au27/beyondthecloud.git
+git branch -M master
+git checkout -b feature/neha
+git push --set upstream feature/neha - it means you have created a new branch and your github remote should know
+git push -u master
+
+already a git-repository is therer once you join an organization
+git clone https://github.com/sadaf-jamal-au27/beyondthecloud.git
+git add .
+git commit -m "done"
+git checkout -b feature/neha
+git push --set upstream feature/neha
+
+
+
